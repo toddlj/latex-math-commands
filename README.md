@@ -11,8 +11,8 @@ The advantages are as follows.
 
 1. This makes the LaTeX file more readable.
 2. This allows you to change conventions by overriding the package, so one could write
-    ```
-    $\renewcommand{\ComplexNumbers}{\mathbf{C}}
+    ``` latex
+    \renewcommand{\ComplexNumbers}{\mathbf{C}}
     ```
     in your LaTeX file to change to a boldface 'C'.
 
@@ -36,5 +36,5 @@ This repository is maintained by [Todd Liebenschutz-Jones](https://www.toddljone
 
 ### License
 
-This repository is licensed by a [MIT License](https://tldrlegal.com/license/mit-license).
+This repository is licensed by a [MIT License](https://opensource.org/licenses/MIT).
 See [LICENSE.txt](https://github.com/toddlj/latex-math-commands/blob/master/LICENSE.txt) for full terms.
